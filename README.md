@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors.html
-trell
+Rock Paper Scissors
